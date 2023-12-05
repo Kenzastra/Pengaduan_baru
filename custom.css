@@ -1,0 +1,13 @@
+html {
+    
+}
+
+.img{
+    max-width: 300px;
+    max-height: auto;
+}
+
+.border-line {
+    border-style: solid;
+    border-width: 1px 0;
+}
